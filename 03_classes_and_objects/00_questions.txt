@@ -1,0 +1,28 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ Classes And Objects
+
+
+01. Define a class Complex to represent a complex number. Declare instance member variables to store real and imaginary part of a complex number, also define instance member functions to set values of complex number and display values of complex number.
+
+02. Define a class Time to represent Time (like 3 hr 45 min 20 sec). Declare appropriate number of instance member variables and also define instance member functions to set values for time and display values of time.
+
+03. Define a class Factorial and define an instance member function to find the Factorial of a number using class.
+
+04. Define a class LargestNumber which should be able to find largest of 2 or 3 numbers. So, define appropriate instance member functions to do this task.
+
+05. Define a class Student having member variables roll and name. Now, define instance member functions to set data of these member variables and display these member variables.
+
+06. Define a class Square to find the square of a number and write a C++ program to
+Count number of times a function is called.
+
+07. Define a class ReverseNumber and define an instance member function to find
+Reverse of a Number using class.
+
+08. Define a class Rectangle and define an instance member function to find the area of the rectangle.
+
+09. Define a class Circle and define an instance member function to find the area of the circle.
+
+10. Define a class Area and define instance member functions to find the area of the
+different shapes like square, rectangle, triangle and circle etc.
