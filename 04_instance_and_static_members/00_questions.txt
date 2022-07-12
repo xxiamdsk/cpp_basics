@@ -1,0 +1,42 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ Instance And Static Members 
+
+
+1. Define a class Complex to represent a complex number with instance variables a and b to store real and imaginary parts. Also define following member functions
+- a. void setData(int,int)
+- b. void showData()
+- c. Complex add(Complex)
+
+2. Define a class Time to represent a time with instance variables h,m and s to store hour, minute and second. Also define following member functions :-
+- a. void setTime(int,int,int)
+- b. void showTime()
+- c. void normalize()
+- d. Time add(Time)
+
+3. Create a class named Person with instance member variables for name, age, and gender. Implement a function to display the details of a person.
+
+4. Define a class Rectangle with instance member variables length and breadth. Write a member function to calculate the area of the rectangle.
+
+5. Design a class Circle with an instance member variable radius. Write a member function to calculate the circumference of the circle.
+
+6. Create a class BankAccount with instance member variables accountNumber, balance, and ownerName. Implement member functions for deposit and withdrawal operations.
+
+7. Define a class Student with instance member variables for name, rollNumber, and an array marks to store subject-wise marks. Write a member function to calculate the average marks.
+
+8. Develop a class MathOperations with a static member function square that calculates the square of a given number.
+
+9. Create a class Library with a static member variable totalBooks and a static member function getTotalBooks. Track the number of available books in the library.
+
+10. Define a class StaticCount and create a static variable. Increment this variable in a instance member function named increment and call this 3 times and display the result.
+
+11. Implement a class Counter with a static member variable count and a static member function to get value of count.
+
+12. Design a class Employee with instance member variables for name, salary, and a static member variable for totalEmployees. Write a member function to display employee details and update the total number of employees.
+
+13. Create a class TemperatureConverter with a static member function to convert Celsius to Fahrenheit. Include an instance member variable for storing the temperature in Celsius.
+
+14. Define a class Product with instance member variables for productName, price, and a static member variable for totalProducts. Implement member functions for displaying product details and updating the total number of products.
+
+15. Define a class Triangle with instance member variables for the three sides (side1, side2, side3). Write a member function to check if the triangle is valid.
