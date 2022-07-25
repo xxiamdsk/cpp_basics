@@ -1,0 +1,39 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ Constructors And Overloading
+
+
+1. Define a class Cube and calculate Volume of Cube and initialise it using constructor.
+
+2. Define a class Counter and initialize the Counter object using Constructor.
+
+3. Define a class Date and write a program to Display Date and initialize date object using Constructors.
+
+4. Define a class student and write a program to enter student details using constructor and define member function to display all the details.
+
+5. Define a class Box and write a program to enter length, breadth and height and
+initialise objects using constructor also define member functions to calculate volume of the box.
+
+6. Define a class Interest and define member functions to read principal , rate of interest and year. Another member functions to calculate simple interest and display it. Initialise all details using constructor.
+
+7. Define a class Bill with instance memebr variables name and id, initialize these using constructor. Define more properties such as units and bill amount along with member function get details of customer, calculateBill() function to calculate electricity bill using below tariff :-
+- 0 - 99 unit RS. 1.20 per unit
+- 100 - 200 unit RS. 2 per unit
+- 201 and above units RS. 3 per unit.
+
+8. Create a class Person with instance member variables for name and age. Implement a constructor that initializes these variables.
+
+9. Define a class Circle with instance member variables radius and area. Implement a parameterized constructor that takes the radius as an argument and calculates the area.
+
+10. Use the Circle class from the previous question with another constructor that takes no arguments and sets a default radius. Use this constructor to create a circle object.
+
+11. Design a class Book with instance member variables for book title and book bookId Implement a parameterized constructor to initialize these variables during object creation.
+
+12. Create a class Rectangle with instance member variables length and nreadth. Implement two constructors - one default constructor that initializes both to 0 and another parameterized constructor that sets them based on user input.
+
+13. Use the Rectangle class from a previous question with a constructor that takes only one argument (length) and creates a square (where length and breadth are equal).
+
+14. Create a class ComplexNumber with instance member variables for the real and imaginary parts. Implement multiple constructors, including one default constructor and another that takes the real and imaginary parts separately.
+
+15. Develop a class Person with instance member variables for name and age. Implement a copy constructor that creates a new object with the same values as an existing object.
