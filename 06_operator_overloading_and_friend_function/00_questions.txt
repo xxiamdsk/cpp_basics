@@ -1,0 +1,102 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ Operator Overload And Friend Function
+
+
+01. Define a class Complex with appropriate instance variables and member functions.
+Define following operators in the class :-
+- a. +
+- b. -
+- c. *
+- d. ==
+
+02. Write a C++ program to overload unary operators that is increment and decrement.
+
+03. Write a C++ program to add two complex numbers using operator overloaded by a
+friend function.
+
+04. Create a class Time which contains hours,minutes and seconds as data members. Write a C++ program using operator overloading for the following :-
+1. == : To check whether two Times are the same or not.
+2. >> : To accept the time.
+3. << : To display the time.
+
+05. Consider following :-
+class Numbers
+{
+  int x,y,z;
+
+};
+Overload the operator unary minus (-) to negate the numbers.
+
+06. Create a class CString to represent a string and define following
+a. Overload the + operator to concatenate two strings.
+b. == to compare 2 strings.
+
+07. Define a class fraction
+class Fraction
+{
+  long numerator;
+  long denominator;
+
+  Public:
+  fraction (long n=0, long d=0);
+};
+Overload the following operators as member or friend:
+a. Unary ++ (pre and post both)
+b. Overload as friend functions: operators << and >>.
+
+08. Consider a class Matrix
+Class Matrix
+{
+     int matrix[3][3], rows = 3, cols = 3;
+};
+Overload the - (Unary) should negate the numbers stored in the object.
+
+09. Consider the following class mystring
+Class mystring
+{
+  char str [100];
+};
+Overload operator “!” to reverse the case of each alphabet in the string (Uppercase to Lowercase and vice versa).
+
+10.Class Matrix
+{
+  int matrix[3][3],rows=3,cols=3;
+};
+Let m1 and m2 are two matrices. Find out m3=m1+m2 (use operator
+overloading).
+
+11. Define a class Complex with appropriate instance variables and member functions.
+Overload following operators
+a. << insertion operator
+b. >> extraction operator
+
+12. Overload subscript operator [] that will be useful when we want to check for an index
+out of bound.
+
+13. Create a student class and overload new and delete operators as a member function
+of the class.
+
+14. Create a student class and overload new and delete operators using friend function.
+
+15. Create a complex class and overload assignment operator for that class.
+
+16. Create an Integer class and overload logical not operator for that class.
+
+17. Create a Coordinate class for 3 variables x,y and z and overload comma operator
+such that when you write c3 = (c1 , c2 ) then c2 is assigned to c3. Where c1,c2,and
+c3 are objects of 3D coordinate class.
+
+18. Create an Integer class that contains int x as an instance variable and overload
+casting int() operator that will type cast your Integer class object to int data type.
+
+19. Create a Distance class having 2 instance variable feet and inches. Also create
+default constructor and parameterized constructor takes 2 variables . Now overload ()
+function call operator that takes 3 arguments a , b and c and set feet = a + c + 5 and
+inches = a+b + 15.
+
+20. Create a class Marks that have one member variable marks and one member
+function that will print marks. We know that we can access member functions using
+(.) dot operator. Now you need to overload (->) arrow operator to access that
+function.
