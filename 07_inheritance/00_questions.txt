@@ -1,0 +1,30 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ Inheritance
+
+
+01. Define a class Person with instance members name and age. Also define member
+functions setName(), setAge(), getName(), getAge(). Now define class Employee by
+inheriting Person class. In the Employee class define empid and salary as instance
+members. Also define setEmpid, setSalary, getEmpid, getSalary.
+
+02. Write a C++ program to add two numbers using single inheritance. Accept these two
+numbers from the user in base class and display the sum of these two numbers in derived class.
+
+03. Write a C++ program to calculate the percentage of a student using multi-level
+inheritance. Accept the marks of three subjects in base class. A class will be derived from the above mentioned class which includes a function to find the total marks obtained and another class derived from this class which calculates and displays the percentage of students.
+
+04. Write a C++ program to design a base class Person (name, address, phoneNumber). Derive a class Employee (empId) from Person. Derive a class Manager (designation, departmentName, basicSalary) from Employee. Now, Accept all details of 'n' managers and display manager having highest salary.
+
+05. Write a C++ program to define a base class Item (itemNumber, name, price). Derive a class Discounted-Item (discountPercent, discountedPrice). A customer purchases 'n' items. Display the item-wise bill and total amount using appropriate format.
+
+06. Write a C++ program to demonstrate how a common friend function can be used to exchange the private values of two classes. (Use call by reference method).
+
+07. Write class declarations and member function definitions for a C++ base class to represent an Employee (empId, name). Derive two classes as Fulltime (dailyRate, numberOfDays, salary) and Parttime (numberOfHours, hourlyRate, salary).
+
+08. In a bank, different customers have savings account. Some customers may have taken a loan from the bank. So bank always maintain information about bank depositors and borrowers. Design a Base class Customer (name, phoneNumber). Derive a class Depositor(accountNumber, balance) from Customer. Again, derive a class Borrower (loanNumber, loanAmount) from Depositor. Write necessary member functions to read and display the details of ‘n’ customers.
+
+09. Write a C++ program to implement the following class hierarchy : Student(roll, name) and StudentExam(derived from Student) containing Marks of 6 subjects and StudentResult(derived from StudentExam) with data member percentage. Define appropriate functions to accept and display details.Create 'n' objects of the StudentResult class and display the marklist.
+
+10. Consider two base classes worker(int code, char name, float salary), officer(float DA, HRA) class manager(float TA(is 10% of salary), grossSalary) is derived from both base classes. Write necessary member functions.
