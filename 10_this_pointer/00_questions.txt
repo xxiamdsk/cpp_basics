@@ -1,0 +1,17 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ this Pointer
+
+
+01. Define a class Complex with appropriate instance variables and member functions.
+One of the functions should be setData() to set the properties of the object. Make
+sure the names of formal arguments are the same as names of instance variables.
+
+02. Use this pointer to get the address of caller object. define a class A and a member function that returns the address of caller object.
+
+03. Define a class Complex with appropriate instance variables and member functions. Overload binary (+) to add two complex numbers and use this pointer to access members
+
+04. Create a class Rectangle and include a member function area and a function setDimensions to set width and height of the rectangle. Enable method chaining by returning the this pointer from the setDimensions function.
+
+05. Use this pointer to get the reference of caller object. define a class A and a member function that returns the reference of caller object.
