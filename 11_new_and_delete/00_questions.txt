@@ -1,0 +1,15 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ New And Delete
+
+
+01. Write a program that dynamically allocates an array of integers. Allow the user to input the size, populate the array, and then display the sum of all elements. Finally, use delete to free the allocated memory.
+
+02. Create a program that dynamically allocates a 2D array of doubles. Allow the user to input the dimensions, populate the matrix, and then compute and display the transpose of the matrix. Use delete to free the memory.
+
+03. Implement a program that involves a class Book with attributes id and price. Dynamically create an object of Book and use it.
+
+04. Define a class representing a student with attributes like name and roll number. Dynamically create an array of student objects based on user input for the number of students. Allow the user to input details for each student, display their information, and then use delete to free the memory.
+
+05. Demonstrate the use of new operator with reference variable in cpp.
