@@ -1,0 +1,28 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ Virtual Function And Abstract Class
+
+
+01. Create a base class called shape. Use this class to store two double type values that could be used to compute the area of figures. Derive two specific classes called triangle and rectangle from the base shape. Add to the base class, a member function setData(double,double) to initialise base class data members and another member function displayArea() to compute and display the area of figures. Make displayArea() as a virtual function and redefine this function in the derived classes to suit their requirements. Using these three classes, design a program that will accept dimensions of a triangle or a rectangle interactively, and display the area. Remember the two values given as input will be treated as lengths of two sides in the case of rectangles, and as base and height in the case of the triangles.
+
+02. Extend the above program to display the area of circles. This requires the addition of a new derived class 'Circle' that computes the area of a circle. Remember, for a circle we need only one value, its radius, but the setData() function in the base class requires two values to be passed. (Hint: Make the second argument of setData() function as a default one with zero value.)
+
+03. Using the concept of pointers, write a function that swaps the private data values of two objects of the same class type.
+
+04. Create an abstract class Vehicle with a pure virtual function start() and another pure virtual function stop(). Derive two classes Car and Motorcycle from Vehicle and implement the start() and stop() functions in each class. Create objects of both classes and call the start() and stop() functions to demonstrate the use of pure virtual functions.
+
+05. Design a class hierarchy for a banking system with a base class Account and two derived classes SavingsAccount and CurrentAccount. Each class should have data members for account balance, account number, and an interest rate (for savings account). Implement virtual functions for deposit, withdraw, and display account details. Demonstrate the use of these classes by creating objects and performing transactions.
+
+06. Define a class Animal with a pure virtual function makeSound(). Derive three classes Dog, Cat, and Bird from Animal and implement the makeSound() function in each derived class. Create objects of each class and make them produce sounds.
+
+07. Create a base class called Matrix. Use this class to store a matrix of 2 x 2 of  int type values that could be used to calculate determinants and create matrices. Create class CalculateDeterminant which will calculate the determinant of a matrix. Using these classes, calculate the determinant of the matrix.
+
+08. Create a base class called proof. Use this class to store three int type values that could be used to prove that triangle is a right angled triangle. Create a class compute which will determine whether a triangle is a right angled triangle. Using these classes, design a program that will accept dimensions of a triangle, and
+display the result. (Summary: Prove that triangle is a right angled triangle using pythagoras theorem).
+
+09. Create a base class called volume. Use this class to store a double type value
+that could be used to compute the volume of figures. Derive two specific classes called cube and sphere from the base shape. Add to the base class, a member function setData() to initialise base class data member and another member function displayVolume() to compute and display the volume of figures. Make displayVolume() as a pure virtual function and redefine this function in the derived classes to suit their requirements. Using these three classes, design a program that will accept dimensions of a cube or a sphere interactively, and display the volume.
+
+10. Create a base class called shape. Use this class to store two double type values that could be used to compute the area of figures. Derive two specific classes called
+Rectangle and parallelogram from the base shape. Add to the base class, a member function setData() to initialise base class data members and another member function displayArea() to compute and display the area of figures. Make displayArea() as a pure virtual function and redefine this function in the derived classes to suit their requirements. Using these three classes, design a program that will accept dimensions of a square or a parallelogram interactively, and display the area.
