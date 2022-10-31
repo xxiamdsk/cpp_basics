@@ -1,0 +1,36 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+
+🟢 Language ➡ C++
+🟢 Topic ➡ File Handling
+
+
+01. Write a C++ program to create a file and print “File created successfully”,otherwise display "Unable to Create a File".
+
+02. Write a C++ program to read a text file and count the number of characters in it.
+
+03. Write a C++ program to open a file 'output.txt' and append data to it.
+
+04. Write a program to copy the content of one text file to another while changing the case of every alphabet.
+
+05. Write a C++ program to merge the content of two files and generate a new file
+
+06. Write a C++ program that counts the total number of characters, words and lines in the file.
+
+07. Define a cpp class Book having attributes bookId, bookTitle and bookPrice and appropriate getters and setters. Now, get n number of book records from user and store each record in a file names "books_data.dat" and then read data from file and display.
+
+08. In the above program add a new feature to search a book in file using book id. if book record found then display it else display book not found.
+
+09. A company has following details of their employees in the file 'emp.dat'
+a. Emp Id
+b. Emp Name
+c. Emp Address
+d. Emp Dept (admin / sales / production / design)
+e. Emp Phone
+f. Emp Age
+Write a C++ program to read the above file. Create a new file such as adm.dat,
+sal.dat, pro.dat, des.dat respectively to store the employee details according to their department.
+
+10. Write a C++ program to having class BankAccount containing attributes such as name, accountNumber and balance and perform following operations:
+a. Add record in a file
+b. Display content of file
+c. Display name of person having balance > 10,000
